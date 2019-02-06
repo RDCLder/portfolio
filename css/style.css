@@ -2470,6 +2470,15 @@ span > a:hover {
 	color: #BD0A0D;
 }
 
-.fa-linkedin, .fa-github, .fa-envelope {
+.fa-linkedin, .fa-github, .fa-envelope, .fa-file {
 	font-size: 20px;
+}
+
+#contact {
+	background-color: #f6f7fd;
+	padding-top: 70px;
+}
+
+.arlo_tm_footer_contact_wrapper_all > .arlo_tm_contact_wrap_all {
+	background-color: #f6f7fd;
 }
